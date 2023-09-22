@@ -1,0 +1,9 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+buffNearDeathTraumaName,buffs,Buff,,,Remus,,,,,,,,,,,,,,
+
+loadingTipPraise,UI,Loading Screen,x,,Praise Josh!,,,,,,,,,,,,,,
+loadingTipPraise_title,UI,Loading Screen,x,,Praise Him,,,,,,,,,,,,,,
+loadingTipChairs,UI,Loading Screen,x,,Chairs can be scrapped but doing so is blasphemy.,,,,,,,,,,,,,,
+loadingTipChairs_title,UI,Loading Screen,x,,Scrapping Chairs,,,,,,,,,,,,,,
+loadingTipEternal,UI,Loading Screen,x,,Josh is eternal and cannot be destroyed.,,,,,,,,,,,,,,
+loadingTipEternal_title,UI,Loading Screen,x,,Eternally Present,,,,,,,,,,,,,,

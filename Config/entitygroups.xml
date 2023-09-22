@@ -1,0 +1,9 @@
+<configs>
+  <append xpath="/entitygroups">
+    <entitygroup name="MurderPaws">
+      animalZombieVulture
+      animalZombieDog
+      animalZombieBear
+    </entitygroup>
+  </append>
+</configs>

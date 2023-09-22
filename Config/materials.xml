@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <set xpath="/materials/material[@id='MfertilizedClayPlanter']/property[@name='MaxDamage']/@value">1</set>
+</configs>
